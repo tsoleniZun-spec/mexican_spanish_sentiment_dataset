@@ -1,5 +1,3 @@
-# mexican_spanish_sentiment_dataset
-
 
 Mexican Spanish Sentiment Dataset
 
