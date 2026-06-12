@@ -1,0 +1,11 @@
+Text,Sentiment
+Me encantó el servicio,Positive
+El producto llegó roto,Negative
+Está bien,Neutral
+Excelente atención al cliente,Positive
+No volvería a comprar aquí,Negative
+Muy buena experiencia,Positive
+Nada fuera de lo normal,Neutral
+La entrega fue demasiado lenta,Negative
+Me ayudaron rápidamente,Positive
+El precio es aceptable,Neutral
