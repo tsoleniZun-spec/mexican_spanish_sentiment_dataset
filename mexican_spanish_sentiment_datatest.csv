@@ -1,11 +1,51 @@
-Text,Sentiment
-Me encantó el servicio,Positive
-El producto llegó roto,Negative
-Está bien,Neutral
-Excelente atención al cliente,Positive
-No volvería a comprar aquí,Negative
-Muy buena experiencia,Positive
-Nada fuera de lo normal,Neutral
-La entrega fue demasiado lenta,Negative
-Me ayudaron rápidamente,Positive
-El precio es aceptable,Neutral
+Expression,Meaning,Category
+No manches,Expression of surprise,Informal
+Qué padre,Something good or cool,Positive
+Aguas,Be careful,Warning
+Está cañón,Something difficult or intense,Informal
+Me vale,I do not care,Informal
+Órale,Expression of surprise or encouragement,Informal
+Qué onda,Greeting or asking what is happening,Greeting
+Chido,Cool or nice,Positive
+Neta,Really or seriously,Informal
+Fresa,Pretentious person,Personality
+Güey,Friend or person,Informal
+Carnal,Brother or close friend,Relationship
+Compa,Friend,Relationship
+Chamba,Work,Daily Life
+Lana,Money,Finance
+Varo,Money,Finance
+Feria,Money,Finance
+Pistear,To drink alcohol,Activity
+Cruda,Hangover,Health
+Paro,Help or favor,Relationship
+Echar la mano,To help,Relationship
+Mandilón,Person controlled by partner,Personality
+Rajarse,To back out,Action
+Chismoso,Gossipy person,Personality
+Gacho,Mean or unpleasant,Negative
+Chafa,Low quality,Negative
+Panza,Stomach,Body
+Pedo,Problem or situation,Informal
+Andar en la luna,To be distracted,Behavior
+Ponerse las pilas,To get motivated,Motivation
+Echar relajo,To joke around,Activity
+Dar el avión,Pretend to listen,Behavior
+Caer gordo,To dislike someone,Emotion
+Estar hasta el gorro,To be fed up,Emotion
+Tirar rollo,To talk a lot,Communication
+Ser buena onda,To be friendly,Positive
+Hacerse pato,Avoid responsibility,Behavior
+Valer queso,To fail,Negative
+Ni modo,It cannot be helped,Expression
+A toda madre,Excellent,Positive
+De volada,Very quickly,Time
+Ahorita,In a moment or later,Time
+Chamaco,Child,People
+Morra,Girl,People
+Morro,Boy,People
+Cuate,Friend,People
+Cotorrear,To hang out socially,Activity
+Menso,Foolish person,Negative
+Chulear,To compliment,Communication
+Apapachar,To show affection,Emotion
